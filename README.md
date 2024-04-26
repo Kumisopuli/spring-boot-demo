@@ -1,0 +1,7 @@
+- Loosely based on course material from Udemy course "Spring Boot 3, Spring & Hibernate for Beginners"
+- Project base generated with Spring Initializr, https://start.spring.io/
+- Expects Java version 17 or higher
+- Build the project either:
+  - From command line: `mvn clean install`
+  - Via an IDE, e.g. with IntelliJ Community Edition
+- Initialize a local MySQL DB structure by running the SQL commands contained in `sql-scripts/employee-directory.sql`
