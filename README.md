@@ -5,3 +5,4 @@
   - From command line: `mvn clean install`
   - Via an IDE, e.g. with IntelliJ Community Edition
 - Initialize a local MySQL DB structure by running the SQL commands contained in `sql-scripts/employee-directory.sql`
+- When running, application responds to requests in `localhost:8080`
